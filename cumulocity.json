@@ -1,0 +1,12 @@
+{
+  "name": "Substation Widget",
+  "contextPath": "substation-widget",
+  "key": "substation-widget-application-key",
+  "contentSecurityPolicy": "default-src 'self'",
+  "icon": {
+    "class": "fa fa-puzzle-piece"
+  },
+  "manifest": {
+    "noAppSwitcher": true
+  }
+}
